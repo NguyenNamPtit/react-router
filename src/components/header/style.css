@@ -1,0 +1,13 @@
+nav {
+  background-color: gray;
+}
+nav ul li {
+  list-style: none;
+  display: inline;
+}
+nav ul li a {
+  color: #ffff;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 100px 100px;
+}
